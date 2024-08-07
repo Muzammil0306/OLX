@@ -1,0 +1,74 @@
+
+#search{
+    width: 95vh;
+    margin-right: 0 !important;
+    box-shadow: none;
+}
+
+#search-span{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSKVCTGwmkgMZgEIFxMXbERLFYm6CqTcXkw&s);
+    background-size: 45px;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 0px 5px 5px 0px;
+    height: 45px;
+    width: 45px;
+    padding: 15px;
+    background-color: green;
+    border: solid 1px rgb(241, 241, 241);
+    margin-right: 15px;
+}
+
+
+#location{
+    width: 300px;
+    font-size: large;
+    margin-right: 15px;
+    margin-left: 35px;
+    padding-left: 30px !important;
+    padding: 5px;
+}
+
+
+#signin{
+    border: none;
+    background-color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+#google{
+    background-color: white;
+    width: 80%;
+    height: 13%;
+    border-radius: 5px;
+    font-size: large;
+}
+
+
+#sellitem{
+    background-image: url('https://www.olx.com.pk/assets/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg') ;
+    background-color: white;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 98px;
+    height: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+    
+
+}
+
+
+
+
+
